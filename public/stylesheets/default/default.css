@@ -259,6 +259,10 @@ a, a:hover, a:link, a:visited {
     padding-top: 5px;
 }
 
+#block_5 .button a {
+  padding-left: 18px;
+}
+
 #block_5 li {
     list-style-type: none;
     display: block;
@@ -662,14 +666,15 @@ ul.tabs a.xl.current {
 
 .slide_short_description {
     position: relative;
-    top: 20px;
-    left: -20px;
+    top: 30px;
+    left: 20px;
 }
 
 .slide_short_description {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: normal !important;
     line-height: 26px;
+    padding-right: 30px;
 }
 
 /* single slide */
@@ -691,7 +696,7 @@ ul.tabs a.xl.current {
     float: left;
     position: relative;
     top: 10px;
-    left: -10px;
+    left: 15px;
 
 }
 
