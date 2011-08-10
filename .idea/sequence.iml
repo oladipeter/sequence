@@ -30,12 +30,6 @@
     </requirement>
     <requirement>
       <requirement>
-        <dependency name="mysql2" version="0.2.7" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
-      </requirement>
-      <source from="Gemfile" />
-    </requirement>
-    <requirement>
-      <requirement>
         <dependency name="paperclip" version="2.3" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
       </requirement>
       <source from="Gemfile" />
@@ -97,6 +91,7 @@
     <orderEntry type="library" scope="PROVIDED" name="[gem] paperclip (v2.3.11, C:/Ruby192/lib/ruby/gems/1.9.1/gems/paperclip-2.3.11)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] warden (v0.10.7, C:/Ruby192/lib/ruby/gems/1.9.1/gems/warden-0.10.7)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] bcrypt-ruby (v2.1.4, C:/Ruby192/lib/ruby/gems/1.9.1/gems/bcrypt-ruby-2.1.4-x86-mingw32)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] mysql2 (v0.2.11, C:/Ruby192/lib/ruby/gems/1.9.1/gems/mysql2-0.2.11)" level="application" />
   </component>
 </module>
 
