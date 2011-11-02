@@ -15,6 +15,14 @@ body {
     line-height: 1.6em;
 }
 
+.main_text {
+  font-weight: bold;
+  font-size: 10px;
+  color: #333;
+  padding-top: 3px;
+  text-align: center;
+}
+
 h1, h2, h3 {
     font-family: Georgia;
     word-spacing: normal;
